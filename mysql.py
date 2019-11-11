@@ -1,7 +1,7 @@
 import pymysql 
 import os
 
-connection = pymysql.connect(host='localhost',user='root',passwd='',db='mysql-python')
+connection = pymysql.connect(host='db4free.net',user='k3v1nh3xk1n5',passwd='#include<stdio.h>',db='py7h0n')
 mycursor = connection.cursor()
 def showTB():
 
